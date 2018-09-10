@@ -1,0 +1,3 @@
+var searchIndex = {};
+searchIndex["atty"] = {"doc":"atty is a simple utility that answers one question > is this a tty?","items":[[4,"Stream","atty","possible stream sources",null,null],[13,"Stdout","","",0,null],[13,"Stderr","","",0,null],[13,"Stdin","","",0,null],[5,"is","","returns true if this is a tty",null,{"i":[{"n":"stream"}],"o":{"n":"bool"}}],[5,"isnt","","returns true if this is not a tty",null,{"i":[{"n":"stream"}],"o":{"n":"bool"}}],[11,"clone","","",0,{"i":[{"n":"self"}],"o":{"n":"stream"}}],[11,"fmt","","",0,{"i":[{"n":"self"},{"n":"formatter"}],"o":{"n":"result"}}]],"paths":[[4,"Stream"]]};
+initSearch(searchIndex);
